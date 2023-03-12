@@ -1,0 +1,22 @@
+{
+  "name": "s10wn-ui",
+  "version": "1.0.0",
+  "description": "UI library like ant tailwind etc..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s10wn/s10wn-ui.git"
+  },
+  "keywords": [
+    "UI"
+  ],
+  "author": "s10wn (https://parviz.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s10wn/s10wn-ui/issues"
+  },
+  "homepage": "https://github.com/s10wn/s10wn-ui#readme"
+}
